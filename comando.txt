@@ -1,0 +1,1 @@
+helm upgrade -i "nome da release" frontend/ -f frontend/values.yaml --namespace="nome do namespace"
